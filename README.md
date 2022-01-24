@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/samarstwt" target="blank"><img src="https://img.shields.io/twitter/follow/samarstwt?logo=twitter&style=for-the-badge" alt="samarstwt" /></a> </p> 
+
 
 - 🌱 I’m passionate about **web-development, DevOps and Machine Learning**
 
@@ -24,4 +24,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <p><pre>                            <img align="center" src="https://github-readme-stats.vercel.app/api?username=samardeep-kajal&show_icons=true&locale=en" alt="samardeep-kajal" /></pre></p>
-<p align="left"> <pre>                                                     <img src="https://komarev.com/ghpvc/?username=samardeep-kajal&label=Profile%20views&color=0e75b6&style=flat" alt="samardeep-kajal" /></pre> </p>
+<p align="left"> <pre>                                                     <img src="https://komarev.com/ghpvc/?username=samardeep-kajal&label=Profile%20views&color=0e75b6&style=flat" alt="samardeep-kajal" /></pre> <p align="left"> <a href="https://twitter.com/samarstwt" target="blank"><img src="https://img.shields.io/twitter/follow/samarstwt?logo=twitter&style=for-the-badge" alt="samarstwt" /></a> </p>  </p>
