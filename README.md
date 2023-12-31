@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samardeep Kajal</h1>
-<h3 align="center">A sophomore year student pursuing Bachelors in Information technology studies. I am a Web-Developer enthusiast.</h3>
+<h3 align="center">A 4th year student pursuing Bachelors in Information technology studies. I am a Web-Developer enthusiast.</h3>
 
 
 
