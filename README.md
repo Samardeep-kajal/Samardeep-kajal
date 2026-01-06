@@ -84,16 +84,24 @@ focus: Full-stack development and building scalable systems.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Samardeep-kajal&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Samardeep-kajal&theme=radical)
+
 <div align="center">
 
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Samardeep-kajal&show_icons=true&theme=radical)
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Samardeep-kajal&theme=radical)
+  
+</div>
+
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Samardeep-kajal&layout=compact&theme=radical)
 
 </div>
 
----
 
-<div align="center">
-  <i>💡 "Building scalable solutions, one commit at a time"</i>
-</div>
+---
