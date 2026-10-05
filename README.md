@@ -161,7 +161,7 @@ Working with **SonarQube, Coverity, and Mend** to support SDLC and code-quality 
 </div>
 
 ---
-
+<!--
 ## 🚀 Projects
 
 <div align="center">
